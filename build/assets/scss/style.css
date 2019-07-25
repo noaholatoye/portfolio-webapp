@@ -62,7 +62,7 @@
 
 /* Variables */
 :root {
-	--main-bg-color: #76abdd;
+	--main-bg-color: #17a2b8;
 	--dark-bg-color: #2d3e50;
 	--main-txt-color: #2d3e50;
 }
@@ -129,12 +129,12 @@ textarea {
 }
 
 a {
-	color: #ca3c08;
+	color: var(--main-bg-color);
 	text-decoration: none;
 }
 
 a:visited {
-	color: #ac0404;
+	color: var(--dark-bg-color) ;
 }
 
 a:focus {
@@ -143,7 +143,7 @@ a:focus {
 
 a:active,
 a:hover {
-	color: #ea9629;
+	color: var(--dark-bg-color) ;
 	outline: 0;
 }
 
