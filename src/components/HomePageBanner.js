@@ -20,15 +20,17 @@ class HomePageBanner extends Component {
 										I'm <br /> <span className="theme-color">Noah Olatoye</span>{" "}
 									</h1>
 									<p className="banner-rider">
-										I love to effectively communicate through designs.
+										I love to effectively communicate through data
+										visualisation.
 									</p>
 									<div className="banner-buttons">
 										<a
 											className="button-default button-white"
-											href="/"
-											role="button"
+											href="https://teamtreehouse.com/noaholatoye"
+											target="_blank"
+											rel="noopener noreferrer"
 										>
-											View Resume
+											View Achievements
 										</a>
 									</div>
 								</div>

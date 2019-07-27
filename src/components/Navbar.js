@@ -32,16 +32,21 @@ class Navbar extends Component {
 											<a href="#about">About</a>
 										</li>
 										<li>
-											<a href="#features">Features</a>
+											<a href="#features">Projects</a>
 										</li>
 										<li>
 											<a href="mailto:noaholatoye101@gmail.com">Email Me</a>
 										</li>
 									</ul>
 								</nav>
-								<button className="button-default button-olive" type="button">
-									Download
-								</button>
+								<a
+									className="button-default button-olive"
+									href="https://drive.google.com/open?id=1Flx2DBWmOGMacl7ajPIAHygWL8M4sI9p"
+									target="_blank"
+									rel="noopener noreferrer"
+								>
+									Download Resume
+								</a>
 							</div>
 						</div>
 						<div className="col-sm-7 col-7 d-block d-lg-none">

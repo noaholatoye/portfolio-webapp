@@ -15,7 +15,7 @@ class Projects extends Component {
 				img: "/assets/images/projects/interactive-dashboard.jpg",
 				title: "Interactive Dashboard",
 				desc: "Complete dashboard with JavaScript-driven charts and graph",
-				link: "https://essay.nesgroup.org/"
+				link: "https://noaholatoye/interactive-dashboard/"
 			},
 
 			{
@@ -23,7 +23,7 @@ class Projects extends Component {
 				title: "Employee Directory",
 				desc:
 					"Generate user with random API to grab information for 12 random employees.",
-				link: "https://essay.nesgroup.org/"
+				link: "https://noaholatoye/employee-director/"
 			},
 
 			{
@@ -31,7 +31,7 @@ class Projects extends Component {
 				title: "Interactive Video Player",
 				desc:
 					"Built an HTML5 video player using JavaScript and the HTML5 Video API.",
-				link: "https://essay.nesgroup.org/"
+				link: "https://noaholatoye/interactive-video-player/"
 			},
 
 			{
@@ -39,14 +39,14 @@ class Projects extends Component {
 				title: "Game Show App",
 				desc:
 					"Browser version of “Wheel of Success”, a word guessing game with random phrase. ",
-				link: "https://essay.nesgroup.org/"
+				link: "https://noaholatoye/game-show-app/"
 			},
 			{
 				img: "/assets/images/projects/restorante-demo-app.jpg",
 				title: "Resorante Demo App",
 				desc:
 					"Built a responsive bootstrap 4 layout, by using the various JavaScript functions",
-				link: "https://essay.nesgroup.org/"
+				link: "https://noaholatoye/restorante-demo-app/"
 			}
 		];
 		let DataList = data.map((val, i) => {

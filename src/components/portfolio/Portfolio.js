@@ -19,7 +19,7 @@ function Portfolio() {
 					<Home />
 				</Tab>
 
-				<Tab eventKey="contact" title="Skills">
+				<Tab eventKey="contact" title="What I Do">
 					<Skills />
 				</Tab>
 				<Tab eventKey="profile" title="Projects">
